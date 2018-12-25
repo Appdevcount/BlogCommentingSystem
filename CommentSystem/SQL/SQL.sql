@@ -16,6 +16,10 @@ ParentId bigint
 --comment form
 --Can use authentcated userid/name as Username while submitting comments
 --Can display empty image in comments section, that's not important for blog content
+--Can also add Likes , dislikes, vote column and corresponding icon in template
+--Can add richtexteditor for textbox as well
+--Can Add ChildComment flag column to distingguish parent and child
+--Can restrict more than 1 sub reply
 
 
 select * from Comment
