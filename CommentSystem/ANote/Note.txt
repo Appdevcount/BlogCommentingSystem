@@ -6,4 +6,4 @@ commented below from .csproj file as it caused error for length path directory..
 
   Extended the comment section width as below
     @*<div class="col-sm-7">*@
-        <div class="col-sm-12">
+        <div class="col-sm-12"> 
